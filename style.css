@@ -1,0 +1,36 @@
+/* .small{
+    width: 100px;
+    height: 100px;
+}
+
+.big{
+    height:300px;
+    width: 300px;
+} */
+body{
+    background-color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.image{
+    width: 200px;
+    height: 300px;
+}
+.Off{
+    width: 190px;
+    height: 300px;
+
+}
+
+.ON{
+    width: 200px;
+    height: 300px;
+
+}
+/* .bold{
+    font-weight: bold;
+}
+
+.blue{
+    color: blue;
+} */
